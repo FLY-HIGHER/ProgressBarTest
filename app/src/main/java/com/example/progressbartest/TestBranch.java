@@ -6,4 +6,5 @@ package com.example.progressbartest;
 public class TestBranch {
     // test comflict
     // branch test conflict
+    //this is master
 }
